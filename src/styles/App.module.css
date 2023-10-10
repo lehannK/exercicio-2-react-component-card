@@ -1,0 +1,10 @@
+.app {
+  background-color: #e3f0f0;
+  border-radius: 20px;
+  padding: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: justify;
+  display: flex;
+  margin: 50px;
+}
