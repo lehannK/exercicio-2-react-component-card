@@ -14,8 +14,6 @@ export default function App() {
         <Title />
         <Description />
         <BuyBtn />
-        <br />
-        <br />
       </div>
     </div>
   );
